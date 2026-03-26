@@ -1,4 +1,4 @@
-<img width="721" height="705" alt="image" src="https://github.com/user-attachments/assets/2f695ccb-ad16-4801-b89f-2d1cbeda9c4b" /># DL- Developing a Neural Network Classification Model using Transfer Learning
+
 
 # NAME:R.SUBHASHRI
 # REG NO:212223230219
