@@ -1,10 +1,27 @@
-# DL- Developing a Neural Network Classification Model using Transfer Learning
+<img width="721" height="705" alt="image" src="https://github.com/user-attachments/assets/2f695ccb-ad16-4801-b89f-2d1cbeda9c4b" /># DL- Developing a Neural Network Classification Model using Transfer Learning
 
 # NAME:R.SUBHASHRI
 # REG NO:212223230219
 
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
+
+## Problem Statement and Dataset
+
+An organization has a dataset of labeled images belonging to multiple categories, and accurate classification of these images is important for automation and decision-making. However, training a deep neural network from scratch requires a large amount of data and computational resources.
+
+To address this, the organization plans to use transfer learning with the VGG19 architecture, which is a pre-trained convolutional neural network that has already learned rich feature representations from large-scale image datasets. By reusing this model, the system can efficiently extract important visual features from images.
+
+The model will be fine-tuned using the given dataset so that it adapts to the specific classification task. This reduces training time and improves performance, especially when the dataset is limited.
+
+After training, the model will be used to classify new, unseen images and evaluate its accuracy. The objective is to achieve high classification performance while minimizing computational cost and training effort.
+
+## Neural Network Model
+
+
+<img width="818" height="740" alt="image" src="https://github.com/user-attachments/assets/85b8d7de-e3f5-4fc3-99e0-09fa1092dcb9" />
+
+
 
 ## DESIGN STEPS
 ### STEP 1: 
